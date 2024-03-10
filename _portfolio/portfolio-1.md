@@ -1,6 +1,6 @@
 ---
 title: "AI-Enabled Deception Detection for Mental Health"
-excerpt: "Dissertation Research<br/><img src='/images/500x300.png'>"
+excerpt: "Dissertation Research<br/><img src='/images/featured.jpg'>"
 collection: portfolio
 ---
 
