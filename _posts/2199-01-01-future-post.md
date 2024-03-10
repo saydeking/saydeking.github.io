@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Named a National GEM Consortium Fellow'
+date: 2022-05-01
+permalink: /posts/2022/05/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Awards
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+[Awarded a Ph.D. Employer Fellowship from the National GEM Consortium sponsored by the MIT Lincoln Laboratory](https://www.ll.mit.edu/news/sayde-king-selected-gem-phd-fellowship-lincoln-laboratory).
+
+---
