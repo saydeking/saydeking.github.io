@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI-Enabled Deception Detection for Mental Health"
+excerpt: "Dissertation Research<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My dissertation work is comprised of multiple ongoing studies. Currently, we are conducting multimodal data collection to support the exploration of deception detection across video, audio, gaze, and physiological data and across various discussion topics. Other project efforts include a survey of the AI-enabled deception detection literature, and qualitative interviews with mental health professionals regarding their perspectives on such technologies in therapeutic settings. 
