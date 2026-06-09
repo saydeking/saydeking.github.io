@@ -1,10 +1,8 @@
 ---
-title: "Cross-Domain Deception Dataset"
+title: "Cross-Domain Deception Dataset (CD3)"
 excerpt: "Dissertation Research<br/><img src='/images/featured.jpg'>"
 collection: portfolio
 ---
-
-# Cross-Domain Deception Dataset (CD3)
 
 ## Description
 
