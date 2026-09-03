@@ -4,7 +4,7 @@ collection: teaching
 type: "Mentoring"
 permalink: /teaching/mentoring-and-advising
 venue: "University of South Florida and Tampa-area educational programs"
-date: 2021-08-01
+date: 2025-08-01
 location: "Tampa, Florida"
 ---
 
@@ -18,18 +18,19 @@ My mentoring focuses on helping students build confidence in computing while ide
 
 ## Undergraduate Mentoring
 
+### Selected Mentees
+
+- **Georgia Ng Wai** (2022-2025), Computer Science undergraduate - Conducted undergraduate research in artificial intelligence and coauthored the Best Paper at the International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS).
+- **Kianna Freeman** (2021-2023), Economics undergraduate - Gained undergraduate research experience and received guidance on graduate-school applications; accepted to the University of Michigan Ph.D. program in Economics and Econometrics.
+- **Phuong Dang** (2020-2023), Computer Science undergraduate - Conducted undergraduate research in artificial intelligence and coauthored a paper published in the proceedings of the IEEE International Conference on Automatic Face and Gesture Recognition (FG).
+
+
 ### Florida IT Graduation Attainment Pathways
 
 **Scholar Mentor, University of South Florida**  
 *Fall 2021-Spring 2023*
 
 Provided academic and professional mentorship to undergraduate scholars, including resume review, guidance on research and leadership opportunities, and individualized academic-success support.
-
-### Selected Mentees
-
-- **Georgia Ng Wai**, Computer Science undergraduate - Conducted undergraduate research in artificial intelligence and coauthored the Best Paper at the International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS).
-- **Phuong Dang**, Computer Science undergraduate - Conducted undergraduate research in artificial intelligence and coauthored a paper published in the proceedings of the IEEE International Conference on Automatic Face and Gesture Recognition (FG).
-- **Kianna Freeman**, Economics undergraduate - Gained undergraduate research experience and received guidance on graduate-school applications; accepted to the University of Michigan Ph.D. program in Economics and Econometrics.
 
 ## K-12 Computing Mentoring
 
