@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sayde L. King / Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Sayde L. King"
-description              : &description "personal description"
+description              : &description "Human-centered AI, multimodal behavioral modeling, trust calibration, and human-AI interaction"
 url                      : https://saydeking.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saydeking/saydeking.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Dayton, OH"
   employer         : "Air Force Research Laboratory"
   uri              : # URL
-  email            : "saydeking@usf.edu" 
+  email            : "saydeking@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
