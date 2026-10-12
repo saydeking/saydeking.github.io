@@ -14,7 +14,7 @@ My mentoring focuses on helping students build confidence in computing while ide
 
 **Apple Polishing Award, University of South Florida Ambassadors, 2022**
 
-*This award signifies a staff or faculty member who greatly impacted a student ambassador's experience at the Unvierstiy of South Florida. I was nominated by student ambassador, Kianna Freeman, for my mentorship in application to PhD programs and in conducting undergraduate research.*
+*This award signifies a staff or faculty member who greatly impacted a student ambassador's experience at the University of South Florida. Student ambassador Kianna Freeman nominated me for mentoring her through Ph.D. applications and undergraduate research.*
 
 ## Undergraduate Mentoring
 
