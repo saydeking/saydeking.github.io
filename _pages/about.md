@@ -2,19 +2,27 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! My name is Dr. Sayde (pronounced shaw-day) King, and I’m a [National Academies of Sciences, Engineering, and Medicine (NASEM) National Research Council Postdoctoral Research Associate](https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs), sponsored by the [Air Force Research Laboratory’s 711th Human Performance Wing at Wright-Patterson Air Force Base](https://www.afrl.af.mil/711HPW/). [I recently earned my Ph.D. in Computer Science and Engineering](https://www.usf.edu/ai-cybersecurity-computing/news/2025/student_spotlight_sayde_king.aspx) from the [University of South Florida](https://www.usf.edu/ai-cybersecurity-computing/index.aspx), where I also completed my M.S. and B.S. in Computer Science.
+Welcome! I’m Dr. Sayde L. King, a National Academies of Sciences, Engineering, and Medicine (NASEM) National Research Council Postdoctoral Research Associate sponsored by the Air Force Research Laboratory’s 711th Human Performance Wing. I earned my Ph.D. in Computer Science and Engineering from the University of South Florida, where I also completed my M.S. and B.S. in Computer Science.
 
+## Research
 
-My research and experiences
-======
+My research addresses two connected questions: how AI systems model ambiguous, context-dependent patterns in human behavior, and how people form, revise, and act on beliefs about AI capability. I combine multimodal behavioral modeling, human-subjects experiments, and qualitative inquiry to study both the limits of AI analysis and the conditions that support calibrated human-AI collaboration.
 
-My research focuses on trustworthy, transparent, and human-centered AI. During my Ph.D., I worked in the [Cyber Identity and Behavior Research Laboratory](https://tempestt-neal.github.io/web/research.html#team), where I studied automated deception detection for non-engineering applications. This work integrated artificial intelligence and qualitative methods to address nuanced human-centered challenges. I am a strong advocate for user-centered design, ensuring that stakeholders are part of the process—including discussions about whether a technology should be developed at all.
+During my doctoral work, I studied responsible AI-enabled behavioral analysis for mental-health applications and examined how behavioral cues varied across contexts. That work showed why models should be evaluated for context sensitivity and transferability instead of assuming that a cue has the same meaning across settings. In my postdoctoral work, I study how people interpret AI performance, explanations, and system purpose when deciding whether to rely on, verify, or intervene in AI-supported decisions.
 
-In my postdoctoral role with NASEM and AFRL, I am extending this foundation by investigating how trust and explainability in AI systems can be advanced for applications in critical, real-world contexts. My goal is to ensure that emerging technologies are not only technically sound but also ethically responsible and aligned with user needs.
+## Future Research Program
 
-Beyond my research, I’ve served on program committees for leading conferences and published across AI, biometrics, and human-computer interaction. My work has been supported by fellowships from the Alfred P. Sloan Foundation, the [National GEM Consortium](https://www.gemfellowship.org/gem-fellowship-program/) (sponsored by [MIT Lincoln Laboratory](https://www.ll.mit.edu/)), the [Florida Education Fund](https://www.fefonline.org/df.html), and USF. My notable research experiences outside of the academy include Ph.D. internships at the [Pacific Northwest National Lab in the National Security Directorate](https://www.pnnl.gov/national-security) and the MIT Lincoln Laboratory in the [Human Health and Performance Systems Group](https://www.ll.mit.edu/r-d/biotechnology-and-human-systems/human-health-and-performance-systems).
+I plan to establish the Human Affect, Behavior, Interactions, and Trust (HABIT) Laboratory around three connected directions:
+
+1. **Context-sensitive models of behavior and affect** that characterize when multimodal cues are informative, context-bound, or insufficient for reliable analysis.
+2. **Mental models, trust calibration, and human oversight** during repeated interaction with AI systems.
+3. **Adaptive AI systems** that respond to uncertainty and interaction needs while supporting, rather than replacing, human judgment.
+
+The lab will study these questions across mental health and well-being, AI-mediated learning, and human-performance contexts. The goal is to develop interpretable AI systems and interaction strategies that support appropriate reliance and meaningful human oversight.
+
+My work has been recognized with the SBP-BRiMS 2025 Best Paper Award and supported by fellowships from the Alfred P. Sloan Foundation, the National GEM Consortium, and the Florida Education Fund. Explore my [publications](/publications/), [research projects](/portfolio/), [talks](/talks/), and [CV](/cv.pdf).
