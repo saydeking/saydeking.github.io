@@ -7,7 +7,7 @@ tags:
 
 ---
 
-After 6 years of hard work, I succesfully defended my dissertation entitled, "An Exploratory Analysis of Automated Deception Detection in Mental Health Applications". I am so grateful to my advisor, committee, family, mentors, and friends for their continuous support. Go Bulls!
+After 6 years of hard work, I successfully defended my dissertation entitled, "An Exploratory Analysis of Automated Deception Detection in Mental Health Applications". I am so grateful to my advisor, committee, family, mentors, and friends for their continuous support. Go Bulls!
 
 
 ------
