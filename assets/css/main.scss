@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Keep long profile metadata inside the sidebar width. */
+.sidebar .author__urls li {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
