@@ -13,4 +13,8 @@ The study examined visual and behavioral signals used in deception detection acr
 
 This recognition is especially meaningful because Georgia’s contributions grew out of her undergraduate research. I’m grateful to my coauthors and collaborators for the care and expertise they brought to this work, and to the SBP-BRiMS community for recognizing it.
 
+## Paper abstract
+
+Deception detection remains a critical challenge for security, human-centered computing, and behavioral research, yet most existing systems struggle to generalize across real-world contexts. This paper examines multimodal deception detection across four domains—academics, biography, well-being, and crime. Using 400 videos from two datasets, including a new one we have released, we evaluate facial, affective, gaze, and gesture features in single- and cross-domain settings. Gaze and gesture consistently outperform facial and affective features, especially in high-risk or narrative contexts, despite being selected less often. Facial features, though common, often lack predictive value, underscoring the need to prioritize performance over frequency. We find that expressivity, not response length, improves detectability, and generalization is stronger when domains share risk or narrative structure. These insights support the design of adaptable, context-aware deception detection systems.
+
 [Read the paper](https://doi.org/10.1007/978-3-032-07715-8_13) · [See the SBP-BRiMS 2025 award announcement](https://sbp-brims.org/2025/awardwinners/)
