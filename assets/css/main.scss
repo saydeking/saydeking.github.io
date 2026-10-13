@@ -45,3 +45,130 @@
   white-space: normal;
   overflow-wrap: anywhere;
 }
+
+/* Give the portfolio a deliberate single-column layout on phones. */
+@media (max-width: 600px) {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  #main {
+    margin-top: 1.25em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .greedy-nav {
+    min-width: 0;
+  }
+
+  .greedy-nav .visible-links {
+    max-width: calc(100% - 3rem);
+  }
+
+  .greedy-nav .visible-links a {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+
+  .sidebar [itemscope][itemtype="http://schema.org/Person"] {
+    display: grid;
+    grid-template-columns: 4.5rem minmax(0, 1fr);
+    align-items: center;
+    column-gap: 0.875rem;
+    row-gap: 0.75rem;
+    min-width: 0;
+  }
+
+  .sidebar .author__avatar {
+    display: block;
+    width: 4.5rem;
+    min-width: 0;
+  }
+
+  .sidebar .author__avatar img {
+    display: block;
+    width: 4.5rem;
+    max-width: 100%;
+    height: auto;
+    padding: 0;
+    border: 0;
+  }
+
+  .sidebar .author__content {
+    display: block;
+    min-width: 0;
+    padding: 0;
+    line-height: 1.35;
+  }
+
+  .sidebar .author__name {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+  }
+
+  .sidebar .author__bio {
+    margin: 0;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+
+  .sidebar .author__urls-wrapper {
+    display: block;
+    grid-column: 1 / -1;
+    min-width: 0;
+  }
+
+  .sidebar .author__urls-wrapper button {
+    min-height: 44px;
+  }
+
+  .sidebar .author__urls {
+    left: 0;
+    right: auto;
+    width: max-content;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .sidebar .author__urls li,
+  .sidebar .author__urls a {
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .page__title {
+    font-size: clamp(1.6rem, 7vw, 2.2rem);
+    line-height: 1.15;
+    overflow-wrap: anywhere;
+  }
+
+  .page__content {
+    min-width: 0;
+    overflow-wrap: break-word;
+  }
+
+  .page__content a {
+    overflow-wrap: anywhere;
+  }
+
+  .page__content img,
+  .page__content video,
+  .page__content iframe {
+    max-width: 100%;
+  }
+
+  .page__content table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .page__content blockquote {
+    margin-right: 0;
+  }
+}
