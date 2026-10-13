@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on Our SBP-BRiMS 2025 Best Paper Award"
-date: 2026-10-13
-permalink: /posts/2026/10/sbp-brims-best-paper/
+date: 2025-10-15
+permalink: /posts/2025/10/sbp-brims-best-paper/
 tags:
   - Awards
   - Research
